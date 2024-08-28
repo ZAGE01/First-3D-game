@@ -1,0 +1,3 @@
+On the main project page on GitHub, you should see a green Code button where you can download the ZIP file.
+
+Extract the ZIP file and go to the FinalBuild folder, where you will find the executable to start the game.
