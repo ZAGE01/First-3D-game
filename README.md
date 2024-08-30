@@ -14,7 +14,7 @@ The player moves using Unity's standard assets FPS-controller, which also includ
 
 The game features many sound effects and background music:
 
-- Each scene has its own background music.
+- Each scene has its own background music. (From Silent Hill 2 :DD)
 - In the Main scene, there is also the sound of wind in the background.
 - The Death scene includes sounds of agony.
 - A sound plays when collecting coins.
